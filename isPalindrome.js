@@ -10,9 +10,9 @@ const isPali = str => {
   while (left < right) {
     //check if values are same
 
-    //if values are equal return "yes"
+    //if values are equal return "true"
 
-    //if values are not equal return "no"
+    //if values are not equal return "false"
 
     //move both pointers in
     left++
